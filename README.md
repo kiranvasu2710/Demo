@@ -1,2 +1,2 @@
 # Demo
-for demo only
+for demo only.
